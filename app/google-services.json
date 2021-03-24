@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "172705641502",
+    "project_id": "my-application-loginface",
+    "storage_bucket": "my-application-loginface.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172705641502:android:9920177ddcb5af0c3eaa0f",
+        "android_client_info": {
+          "package_name": "br.pro.evslopes.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172705641502-oadc5abckfbvf146slmq4ev0f9dh34v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNUZpQHgwXBgkBUHItpTSrFCmp9PAR8Fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172705641502-oadc5abckfbvf146slmq4ev0f9dh34v4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
